@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Solumbra
-- 👀 I’m interested in coding but I suck
+- 👀 I’m interested in coding but I'm not very good
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on useful projects and fun projects
 - 📫 How to reach me solumbra.0@gmail
